@@ -1,0 +1,8 @@
+tensorflow==2.13.0
+numpy>=1.19.2
+pandas>=1.2.0
+flask>=2.0.0
+tldextract>=3.1.0
+scikit-learn>=0.24.0
+python-whois>=0.7.3
+requests>=2.25.1
